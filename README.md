@@ -6,7 +6,7 @@ Lucy MacDonald<sup>1,2</sup>, Katerina Apostolopoulou<sup>3</sup>, Olympia Hardy
 
 1 Research into Inflammatory Arthritis Centre Versus Arthritis (RACE), University of Glasgow, United Kingdom
 
-2 School of Infection & Immunity
+2 School of Infection & Immunity, University of Glasgow, United Kingdom
 
 3 Center of Experimental Rheumatology, Department of Rheumatology, University Hospital Zurich, Zurich, Switzerland
 
